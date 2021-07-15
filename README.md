@@ -6,13 +6,11 @@ Desenvolvemos um sistema de gerenciamento que deve ser utilizado preferencialmen
 
 Palavras-chaves: KnowLedge Doors, Biblioteca, Livros e Leitores.
 
+Mini mundo
 
-INTRODUÇÃO
-   A primeira biblioteca do mundo foi erguida em Nínive, a cidade mais importante da Assíria (atual Iraque), pelo rei Assurbanipal II, por volta do século 7 a.C. Nela, foram armazenadas milhares de tabuletas escritas com caracteres cuneiformes, a mais antiga forma de escrita que se conhece. Os assírios eram principalmente guerreiros, mas davam muita ![Empa e Bolos Especiais - Dia dos Pais](https://user-images.githubusercontent.com/68935244/125812381-7e9082f3-c2c3-460e-b62c-acc4b8f096e9.png)
-importância à preservação de arquivos, relatórios e documentos. Estes, por sua vez, eram gravados em placas de barro, pois o papel somente iria surgir muito mais tarde. Com o surgimento das tecnologias foi possível otimizar a produção, o acesso e, principalmente, aumentar a disseminação das informações, mudando o paradigma de que as elas só estariam em documentos impressos.
-    Apesar de haver um movimento a favor disso, grande parte das bibliotecas ainda não tem avançado na utilização dessas novas tecnologias, o que vai de encontro a um dos principais objetivos desses locais, que é democratizar e disseminar o conhecimento.
-Além de otimizar processos e melhorar a comunicação, a inserção das tecnologias da informação pode trazer uma nova forma na produção, organização e distribuição da informação, além de fazer com que as bibliotecas se beneficiem e possam oferecer um serviço cada vez mais qualificado.
-Para que possamos entender melhor o uso das tecnologias da informação pelas bibliotecas nos dias de hoje, é essencial que tenhamos conhecimento sobre o histórico dessa utilização. É sobre isso que vamos falar a seguir.
-Em tempos passados, até a primeira década do século XX, como não havia grandes avanços tecnológicos, também não havia a diferenciação entre a informação e seu suporte tecnológico. Nesta época as bibliotecas eram vistas apenas como um local onde os documentos eram, de certa forma, estocados.
-Nas décadas seguintes, como o conceito da informação vinha separado do seu suporte tecnológico, também foi iniciada a utilização das tecnologias da informação para organizar o grande volume de documentos que estavam sendo produzidos na época.
-Sendo assim, as tecnologias da informação vão desde a parte em que dá suporte aos bibliotecários para aprimorar e para que possam elaborar um trabalho com mais eficiência e eficácia até a parte de distribuição em rede dos exemplares. No trabalho que apresentaremos a seguir, veremos uma medida desenvolvida para o aprimoramento no empréstimo dos livros. 
+   O usuário ao abrir a aplicação irá se deparar com a tela de login, onde só será permitida a entrada por um usuário previamente cadastrado pelos desenvolvedores. Ao entrar na aplicação haverá um leque com algumas abas onde toda a aplicação pode ser observada, consultada e até alterada e é nela que será possível decidir se irá cadastrar, pesquisar, alterar e até excluir qualquer dos itens anteriormente colocados. Nessa aplicação, nós temos várias tabelas e são elas de clientes, livros, categorias, autores e até de editoras, todas são passíveis de alteração, inserção e exclusão. Sempre que algum item for modificado na tabela onde são exibidos esses dados, também haverá modificação
+![image10](https://user-images.githubusercontent.com/68935244/125812848-18cec9ea-8ab8-419f-b61e-e2b1810f1872.png)
+Tela de login do administrador
+Na tela de login é onde um usuário previamente cadastrado pelo desenvolvedor ou por outro usuário pode acessar, alterar e até excluir todos os dados da aplicação.
+
+
