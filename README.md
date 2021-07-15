@@ -1,58 +1,18 @@
-# KNOWLEDGEDOORS
+## KNOWLEDGEDOORS
 Sistema de Gerenciamento da Biblioteca
-Enunciado 1 - Exercício de Programação - 2021/2
-desenvolver um sistema de biblioteca no seu bairro. Por enquanto, a biblioteca possui apenas 3 livros:
-Como fazer sentido e bater o martelo - Autor: Alexandro Aolchique - Ano: 2017
-Código Limpo - Autor: Tio Bob - Ano: 2001
-Basquete 101 - Autor: Hortência Marcari - Ano: 2010, estes livros devem, obrigatoriamente, estar rio através de um menu:
-Retirar um livro: Dado a lista de livros que estão cadastrados no sistema, o usuário pode retirar qualquer livro desde que não esteja emprestado (ou seja, esteja disponível), e em caso de sucesso, ele fica indisponível.
-Devolver um livro: Dado a lista de livros que o usuário retire livro ====================================
-Livro selecionado: 
-Número: 00002
-Título: Código Limpo 
-Autor: Tio Bob 
+Foi desenvolvido um sistema de gerenciamento que deve ser utilizado preferencialmente por bibliotecas e determinados o seguinte nome “KnowLedge Doors” que em português
+significa "Portas para o Conhecimento". Devido a grande paixão dos desenvolvedores pela leitura, programação e computação decidimos desenvolver um aplicativo que auxilie os bibliotecários e também os leitores para a otimização e o melhor aproveitamento do tempo dos dois. Para que assim, os bibliotecários possam ter um melhor controle e monitoramento e para que possam também ter mais agilidade no processo. E, para que os leitores utilizem mais tempo lendo do que adquirindo o livro, seja emprestado ou não.
+Desenvolvemos um sistema de gerenciamento que deve ser utilizado preferencialmente por bibliotecas e determinados o seguinte nome “KnowLedge Doors” que em português significa "Portas para o Conhecimento". Devido a grande paixão dos desenvolvedores pela leitura, programação e computação decidimos desenvolver um aplicativo que auxilie os bibliotecários e também os leitores para a otimização e o melhor aproveitamento do tempo dos dois. Para que assim, os bibliotecários possam ter um melhor controle e monitoramento e para que possam também ter mais agilidade no processo. E, para que os leitores utilizem mais tempo lendo do que adquirindo o livro, seja emprestado ou não. 
+
+Palavras-chaves: KnowLedge Doors, Biblioteca, Livros e Leitores.
 
 
-Ano: 2001
-Status: Disponível
-Emprestado para: 
-Após a retirada:
-Número: 00001
-Título: Código Limpo 
-Autor: Tio Bob 
-Ano: 2001
-Status: Indisponível
-Emprestado para: Maria Antônia
-
-Funcionalidade - Devolver um livro ==================================
-Selecionar livro emprestado: 
-Número: 00003
-Título: Basquete 101
-Autor: Hortência Marcari
-Ano: 2010
-Status: Indisponível
-Emprestado para: João Pedro
-Após a devolução:
-Número: 00003
-Título: Basquete 101
-Autor: Hortência Marcari
-Ano: 2010
-Status: Disponível
-Emprestado para: 
-
-Funcionalidade - Doar um livro ==================================
-Campos para preenchimento de um novo livro:
-Número: 
-Título: 
-Autor: 
-Ano: 
-Status:
-Emprestado para:
-Após o cadastro:
-Número: 00004
-Título: Novo livro
-Autor: Inês
-Ano: 2000
-Status: Disponível
-Emprestado para: 
-Extra: Seria muito legal se você conseguisse implementar uma maneira de armazenar as informações dos livros de forma que elas continuassem existindo mesmo após o usuário sair do sistema. Que funcionasse como uma espécie de “banco de dados”. ;)
+INTRODUÇÃO
+   A primeira biblioteca do mundo foi erguida em Nínive, a cidade mais importante da Assíria (atual Iraque), pelo rei Assurbanipal II, por volta do século 7 a.C. Nela, foram armazenadas milhares de tabuletas escritas com caracteres cuneiformes, a mais antiga forma de escrita que se conhece. Os assírios eram principalmente guerreiros, mas davam muita ![Empa e Bolos Especiais - Dia dos Pais](https://user-images.githubusercontent.com/68935244/125812381-7e9082f3-c2c3-460e-b62c-acc4b8f096e9.png)
+importância à preservação de arquivos, relatórios e documentos. Estes, por sua vez, eram gravados em placas de barro, pois o papel somente iria surgir muito mais tarde. Com o surgimento das tecnologias foi possível otimizar a produção, o acesso e, principalmente, aumentar a disseminação das informações, mudando o paradigma de que as elas só estariam em documentos impressos.
+    Apesar de haver um movimento a favor disso, grande parte das bibliotecas ainda não tem avançado na utilização dessas novas tecnologias, o que vai de encontro a um dos principais objetivos desses locais, que é democratizar e disseminar o conhecimento.
+Além de otimizar processos e melhorar a comunicação, a inserção das tecnologias da informação pode trazer uma nova forma na produção, organização e distribuição da informação, além de fazer com que as bibliotecas se beneficiem e possam oferecer um serviço cada vez mais qualificado.
+Para que possamos entender melhor o uso das tecnologias da informação pelas bibliotecas nos dias de hoje, é essencial que tenhamos conhecimento sobre o histórico dessa utilização. É sobre isso que vamos falar a seguir.
+Em tempos passados, até a primeira década do século XX, como não havia grandes avanços tecnológicos, também não havia a diferenciação entre a informação e seu suporte tecnológico. Nesta época as bibliotecas eram vistas apenas como um local onde os documentos eram, de certa forma, estocados.
+Nas décadas seguintes, como o conceito da informação vinha separado do seu suporte tecnológico, também foi iniciada a utilização das tecnologias da informação para organizar o grande volume de documentos que estavam sendo produzidos na época.
+Sendo assim, as tecnologias da informação vão desde a parte em que dá suporte aos bibliotecários para aprimorar e para que possam elaborar um trabalho com mais eficiência e eficácia até a parte de distribuição em rede dos exemplares. No trabalho que apresentaremos a seguir, veremos uma medida desenvolvida para o aprimoramento no empréstimo dos livros. 
